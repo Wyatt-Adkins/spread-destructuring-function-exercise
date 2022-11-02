@@ -28,7 +28,7 @@ seeCharacters(jPCharacters);
 
 // bonus
 // 3a
-const jurassicParkMOVIES = [
+const jurassicParkMovies = [
     {one: "Jurassic Park", two: "The Lost World: Jurassic Park", three: "Jurassic Park III"
 
     },
